@@ -1,1 +1,1 @@
-python -c 'print "\"\'<   >~|_+_foo"' 2>&1
+python -c 'print "\"<   >~|_+_foo"' 2>&1
